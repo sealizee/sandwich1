@@ -1,5 +1,3 @@
-Steak
-Salade
-Tomate
-Cornichon
-Fromage
+Double Steak
+Mayo
+Beaufort
